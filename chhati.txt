@@ -1,0 +1,17 @@
+git commit -m "sevnth commit"
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 775 bytes | 775.00 KiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 1 local object.
+To https://github.com/Saranshkamboj/second.git
+   faf8664..eb17568  master -> master
+[master eb17568] sevnth commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+
+
+----- this entry show that i have done auto push in git-hub
+iski explanation abhi nhi duga, hehehe!
