@@ -14,4 +14,4 @@ To https://github.com/Saranshkamboj/second.git
 
 
 ----- this entry show that i have done auto push in git-hub
-iski explanation abhi nhi duga, hehehe!!
+iski explanation abhi nhi duga, hehe!
