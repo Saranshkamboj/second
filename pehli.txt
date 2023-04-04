@@ -1,0 +1,8 @@
+1. we create another directory /second and intialize it as empty repository
+2. we create a new file in that directory.
+3. now we have to add it for tracking this by command= git add <name> or git add .
+4. now for creating version we commit it by command= git commit -m "we write message here"
+5. besides it, we have practiced about set author name and set email by commands respectively = git config user.name "author name" and git config user.email "authoremail@gmail.com"
+6. we are setting author globally by command = git config --global user.name "author name"
+7. ard we have practiced to download repo from github by command= git clone <link>
+~                                                                                         
