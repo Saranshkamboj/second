@@ -1,0 +1,7 @@
+In this file, i would like to describle that how to push data without asking password and username
+git remote set-url origin https://Saranshkamboj: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@github.com/Saranshkamboj/second.git
+origin= add <origin>
+https://Saranshkamboj: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= repo link
+Saranshkamboj = username
+second = my repo name
+after do entry in this command repect to our information you will be able to push data without asking password or username
