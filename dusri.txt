@@ -1,0 +1,1 @@
+ we are trying to solve second assignment that we didn't use push command and we push file to github repository
